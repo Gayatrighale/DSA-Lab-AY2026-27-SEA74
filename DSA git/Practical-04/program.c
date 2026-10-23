@@ -1,3 +1,8 @@
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 4
+//
+
 #include <stdio.h>
 #define MAX 32
 int stack[MAX];
