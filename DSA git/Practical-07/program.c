@@ -1,7 +1,8 @@
-
-
-
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 7
 //Dynamic Text Editor Using Singly Linked List.
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct SLL
