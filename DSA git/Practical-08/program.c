@@ -1,12 +1,11 @@
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 8
+//Binary Search Tree Operations for Online Directory System.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-/*
-Name: Pranav Gajanan Daud
-Roll No.: SEA59
-Practical No. 8
-*/
 
 struct Node
 {
