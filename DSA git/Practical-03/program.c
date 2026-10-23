@@ -1,7 +1,7 @@
 // Name: Gayatri Satish Ghale
 // Roll No.: SEA74
 // Practical No. 3
-//
+//Searching Contact Names Using Sequential Search and Binary Search.
 
 #include <stdio.h>
 #include <string.h>
