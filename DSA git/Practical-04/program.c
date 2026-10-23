@@ -1,7 +1,7 @@
 // Name: Gayatri Satish Ghale
 // Roll No.: SEA74
 // Practical No. 4
-//
+//Decimal to Binary Conversion Using Stack.
 
 #include <stdio.h>
 #define MAX 32
