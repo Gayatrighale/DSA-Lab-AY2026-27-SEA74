@@ -1,3 +1,7 @@
+
+
+
+//Dynamic Text Editor Using Singly Linked List.
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct SLL
