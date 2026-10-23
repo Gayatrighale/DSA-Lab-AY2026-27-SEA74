@@ -1,5 +1,7 @@
-
-
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 9
+//Graph Traversal for Campus Navigation Using BFS and DFS.
 
 #include <stdio.h>
 
