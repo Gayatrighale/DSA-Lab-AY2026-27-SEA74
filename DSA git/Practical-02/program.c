@@ -1,3 +1,9 @@
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 2
+// 
+
+
 #include <stdio.h>
 typedef struct
 {
