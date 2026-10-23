@@ -1,7 +1,7 @@
 // Name: Gayatri Satish Ghale
 // Roll No.: SEA74
 // Practical No. 2
-// Student database result management 
+// Student Result Database Management Using Array of Structures
 
 
 #include <stdio.h>
