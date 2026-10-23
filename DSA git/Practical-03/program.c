@@ -1,3 +1,8 @@
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 3
+//
+
 #include <stdio.h>
 #include <string.h>
 
