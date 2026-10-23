@@ -1,3 +1,8 @@
+// Name: Gayatri Satish Ghale
+// Roll No.: SEA74
+// Practical No. 6
+//Train Ticket Booking System Using Queue.
+
 #include <stdio.h>
 #define SIZE 5
 
